@@ -1,2 +1,2 @@
-# argho1234.github.io
+# Arghyadeep's Portfolio
 Data Analyst portfolio
