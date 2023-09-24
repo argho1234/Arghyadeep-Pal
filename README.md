@@ -1,2 +1,4 @@
 # Arghyadeep's Portfolio
-Data Analyst portfolio
+# Education
+Btech in Electrical Engineering
+# Data Analyst portfolio
