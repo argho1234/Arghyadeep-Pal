@@ -12,5 +12,5 @@ Investigation Specialist at Amazon (Nov-2022 to present)
 * Used different types of customized visualization to show the complex parameters in a much comprehensible form.
 * The visualization shows Top parameters such as States by sales amount, months where profits were accumulated the most.
 
-![Power BI dashboard](https://github.com/argho1234/Arghyadeep-Pal/blob/main/assets/img/full%20final.png "Dashboard"){:class="img-responsive"}
+![Power BI dashboard](/assets/img/full%20final.png "Dashboard"){:class="img-responsive"}
 
