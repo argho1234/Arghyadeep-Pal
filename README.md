@@ -8,7 +8,7 @@ Investigation Specialist at Amazon (Nov-2022 to present)
   
 # Personal Projects
 
-* Created an interactive dashboards to track and analyze online sales data.
+* Created an interactive Powr BI Dashboard  to track and analyze online sales data.
 * Used different types of customized visualization to show the complex parameters in a much comprehensible form.
 * The visualization shows Top parameters such as States by sales amount, months where profits were accumulated the most.
 
