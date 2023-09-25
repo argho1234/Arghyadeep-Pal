@@ -11,5 +11,6 @@ Investigation Specialist at Amazon (Nov-2022 to present)
 * Created an interactive dashboards to track and analyze online sales data.
 * Used different types of customized visualization to show the complex parameters in a much comprehensible form.
 * The visualization shows Top parameters such as States by sales amount, months where profits were accumulated the most.
-![Power BI dashboard](https://github.com/argho1234/Arghyadeep-Pal/blob/main/assets/img/full%20final.png "Dashboard")
+
+![Power BI dashboard](https://github.com/argho1234/Arghyadeep-Pal/blob/main/assets/img/full%20final.png "Dashboard"){:class="img-responsive"}
 
