@@ -3,11 +3,11 @@
 ## Education
 B.Tech Electrical Engineering| Techno Main Saltlake,Graduated 2022
 ## Work Experience
-**MIS Executive at Swiggy (Jul-2024 to Present)**
-* Dashboards,automation process and Catering to reporting requirements from Operations and other teams.
-* Troubleshooting and validation of various data requests through SQL.
+**Data Analyst at Swiggy (Jul-2024 to Present)**
+* Power BI Dashboards,automation process and Catering to reporting requirements from Operations, Sales & Marketing Teams.
+* Troubleshooting and validation of various data requests through SQL and Snowflake.
   
-**Investigation Specialist at Amazon (Nov-2022 to May-2024)**
+**Risk Analyst at Amazon (Nov-2022 to May-2024)**
 * Responsible for a wide range of duties related to the investigation and Elimination of online E-commerce risk.
   
 ## Portfolio Projects
