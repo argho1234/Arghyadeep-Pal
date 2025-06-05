@@ -1,5 +1,5 @@
 # Data Analyst
-#### Technical Skills: Python, SQL, MS Excel,Power BI
+#### Technical Skills: Python, SQL, MS Excel,Power BI, Snowflake
 ## Education
 B.Tech Electrical Engineering| Techno Main Saltlake,Graduated 2022
 ## Work Experience
