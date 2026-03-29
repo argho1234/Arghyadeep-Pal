@@ -1,9 +1,9 @@
 # Data Analyst
-#### Technical Skills: Python, SQL, MS Excel,Power BI, Snowflake
+#### Technical Skills: Python, SQL, MS Excel,Power BI, Snowflake, Azure Databricks
 ## Education
 B.Tech Electrical Engineering| Techno Main Saltlake,Graduated 2022
 ## Work Experience
-**Data Analyst at Swiggy (Jul-2024 to Present)**
+**Data Analyst at Swiggy (Jul-2024 to Jul-2025)**
 * Power BI Dashboards,automation process and Catering to reporting requirements from Operations, Sales & Marketing Teams.
 * Troubleshooting and validation of various data requests through SQL and Snowflake.
   
